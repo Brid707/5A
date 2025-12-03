@@ -1,0 +1,6 @@
+PRUEBA 3
+x = 2.75
+dof = 30
+Resultado = 0.4949998582485177
+Esperado = 0.4949
+Diferencia = 9.985824851771463E-5

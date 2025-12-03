@@ -1,0 +1,6 @@
+PRUEBA 1
+x = 1.1
+dof = 9
+Resultado = 0.3500586368972011
+Esperado = 0.350058
+Diferencia = 6.368972011450147E-7
