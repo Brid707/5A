@@ -1,0 +1,6 @@
+PRUEBA 2
+x = 1.1812
+dof = 10
+Resultado = 0.36757340515255205
+Esperado = 0.3675
+Diferencia = 7.340515255205293E-5
